@@ -1,3 +1,3 @@
 print ("Second programmer")
 def func():
-    pas
+    print ("new issue")
