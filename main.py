@@ -3,5 +3,5 @@ def func():
     print("some info")
 print ("end")
 def func2():
-    pass
+    print ("Yeeah")
 
