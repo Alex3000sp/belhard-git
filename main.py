@@ -1,4 +1,4 @@
 print ("Hellow")
 def func():
-    pass
+    print("some info")
 
